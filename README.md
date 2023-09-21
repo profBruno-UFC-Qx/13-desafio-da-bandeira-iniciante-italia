@@ -1,8 +1,9 @@
 # Descrição
 
-Neste exercício, você irá criar uma página web que exibe uma galeria de imagens que deverá ser estilizado.
+Neste exercício prático, você irá construir a bandeiras da Itália usando CSS.
 
-O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
+
+O objetivo deste exercício é exercitar o seu conhecimento sobre o CSS Box Model e Flexbox.
 
 **Todas as alterações devem ser feitas nos arquivos já existentes**
 
@@ -11,6 +12,14 @@ O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
 * src/js/script.js -> quando for necessário alterar JavaScript
 
 ## Instruções:
+
+1. Construa a bandeira da Itália alterando o conteúdo do arquivo **src/index.html** e **src/css/estilo.css**
+1. Sua bandeira deve ficar parecido com a bandeira abaixo:
+  
+<figure>
+	<img src="https://www.worldometers.info/img/flags/it-flag.gif" alt="Bandeira da Itália" width="50%">
+	<figcaption>Bandeira da Itália</figcaption>
+</figure>
 
 
 ## Recomendações
